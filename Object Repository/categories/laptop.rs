@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>laptop</name>
+   <tag></tag>
+   <elementGuidId>0c6b9c03-1b72-46a5-a245-c66e2ded3935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[.='Laptops']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[.='Laptops']</value>
+      <webElementGuid>46549b06-1c95-46e3-a0b8-eada7acc90e0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

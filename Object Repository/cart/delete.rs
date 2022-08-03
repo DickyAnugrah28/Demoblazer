@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete</name>
+   <tag></tag>
+   <elementGuidId>aebe1162-ff47-456e-9c92-6d12f4d4e7cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tbody[@id='tbodyid']/tr[1]//a[.='Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody[@id='tbodyid']/tr[1]//a[.='Delete']</value>
+      <webElementGuid>23818f05-ce82-4461-98dc-74d69a2a0066</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>city</name>
+   <tag></tag>
+   <elementGuidId>8a57fa49-4fff-456b-b227-84c6991476d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='city']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='city']</value>
+      <webElementGuid>081f109f-6478-4177-b00c-b858caf16985</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

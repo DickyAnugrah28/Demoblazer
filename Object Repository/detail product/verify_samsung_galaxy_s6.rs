@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_samsung_galaxy_s6</name>
+   <tag></tag>
+   <elementGuidId>61e9d853-0d69-4af2-a035-caa2b888ee42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[@class='name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[@class='name']</value>
+      <webElementGuid>a1f5aefe-802c-4296-af6f-6ff58250d80c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

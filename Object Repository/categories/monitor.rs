@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monitor</name>
+   <tag></tag>
+   <elementGuidId>3c129715-5e77-40fe-ae33-3f052621ac0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[.='Monitors']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[.='Monitors']</value>
+      <webElementGuid>e17429f4-60ea-458d-9cd5-396ac3b00bf9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

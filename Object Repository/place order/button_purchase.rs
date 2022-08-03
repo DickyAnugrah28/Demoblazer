@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_purchase</name>
+   <tag></tag>
+   <elementGuidId>cc0633d2-fbf7-4ca7-9a6a-321f023e02e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[.='Purchase']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[.='Purchase']</value>
+      <webElementGuid>1538be73-b918-4fb4-abd0-4132e7e0e04b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

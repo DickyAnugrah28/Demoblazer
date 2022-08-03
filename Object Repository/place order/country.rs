@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>country</name>
+   <tag></tag>
+   <elementGuidId>1b62765e-f6b7-44cb-818f-68da77df97e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='country']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='country']</value>
+      <webElementGuid>fe7a3864-e558-4518-a954-c8f7b66fd8d1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

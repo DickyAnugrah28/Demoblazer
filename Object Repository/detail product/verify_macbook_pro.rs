@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_macbook_pro</name>
+   <tag></tag>
+   <elementGuidId>0141ae65-e022-46e2-b34c-5c63cc1ff7e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[@class='name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[@class='name']</value>
+      <webElementGuid>d9e9aeb0-f737-4cbf-bb43-3a6216d091b9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

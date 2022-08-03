@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>month</name>
+   <tag></tag>
+   <elementGuidId>91ebf41c-9b2e-4bf9-bc99-e4661917b5e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='month']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='month']</value>
+      <webElementGuid>245899f9-50e8-43ae-88bb-812f53f81af2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
